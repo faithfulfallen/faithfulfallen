@@ -6,5 +6,5 @@
 
 𓎢𓎟𓎟𓎟༺  ♰  ༻𓎟𓎟𓎟𓎡
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=faithfulfallen&color=ebebeb&style=plastic&label=crosses)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=faithfulfallen&color=ebebeb&style=plastic&label=feathers)
 </div>
